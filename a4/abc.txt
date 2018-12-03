@@ -1,0 +1,27 @@
+exit
+cslinux1.utdallas.edu
+Mon Dec  3 02:19:36 CST 2018
+ls -l -a | wc
+cslinux1.utdallas.edu
+Mon Dec  3 02:19:34 CST 2018
+     18     155     999
+
+ls -l
+cslinux1.utdallas.edu
+Mon Dec  3 02:19:29 CST 2018
+total 94
+-rwx--x--x+ 1 brw180000 sn 13632 Dec  3 02:18 a4p1Client
+-rw-------+ 1 brw180000 sn  1680 Dec  3 02:13 a4p1Client.c
+-rwx--x--x+ 1 brw180000 sn 14016 Dec  3 02:18 a4p1Server
+-rw-------+ 1 brw180000 sn  4981 Dec  3 02:13 a4p1Server.c
+-rwx--x--x+ 1 brw180000 sn 13632 Dec  3 02:18 a4p2Client1
+-rw-------+ 1 brw180000 sn  1680 Dec  3 02:13 a4p2Client1.c
+-rwx--x--x+ 1 brw180000 sn 13632 Dec  3 02:18 a4p2Client2
+-rw-------+ 1 brw180000 sn  1680 Dec  3 02:13 a4p2Client2.c
+-rwx--x--x+ 1 brw180000 sn 14016 Dec  3 02:18 a4p2Server
+-rw-------+ 1 brw180000 sn  4981 Dec  3 02:11 a4p2Server.c
+-rw-------+ 1 brw180000 sn     0 Dec  3 02:19 abc.txt
+drwx--x--x+ 2 brw180000 sn    15 Dec  3 02:10 archive
+-rw-------+ 1 brw180000 sn   329 Dec  3 02:17 Makefile
+drwx--x--x+ 2 brw180000 sn     4 Dec  3 02:16 notused
+
